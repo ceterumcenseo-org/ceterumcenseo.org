@@ -3,8 +3,8 @@ body {
   }
 
 a {
-    font-size: 50%;
-    color: #666666;
+    font-size: 50% !important;
+    color: #666666 !important;
 }
 
 #centeredLogo {
