@@ -2,6 +2,11 @@ body {
     font-family: Helvetica, sans-serif;
   }
 
+a {
+    font-size: 50%;
+    color: #666666;
+}
+
 #centeredLogo {
     position: absolute;
     width: 300px;
